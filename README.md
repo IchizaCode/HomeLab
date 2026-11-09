@@ -68,7 +68,7 @@ The lab runs on repurposed hardware rather than dedicated server equipment.
 
 ## 🏗️ Architecture
 
-The infrastructure follows a layered approach.
+The infrastructure follows a layered approach
 
 ```mermaid
 flowchart TB
